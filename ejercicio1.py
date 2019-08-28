@@ -1,6 +1,11 @@
 import math
 import re
 # Nota: recuerde que no está permitido modificar los nombres de las funciones
+
+
+
+
+
 # ni los parámetros que reciben.
 
 def distintos(lista):
