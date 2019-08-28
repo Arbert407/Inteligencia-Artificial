@@ -3,6 +3,10 @@ import re
 # Nota: recuerde que no está permitido modificar los nombres de las funciones
 # ni los parámetros que reciben.
 
+
+
+
+
 def distintos(lista):
   """Retorna True sólo si <lista> contiene sólo números diferentes"""
   conjunto = set(lista) #Los conjuntos tienen la propiedad de no repetir sus elementos
